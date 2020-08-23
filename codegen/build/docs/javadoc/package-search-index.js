@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"org.web3j.codegen"},{"l":"org.web3j.codegen.unit.gen"},{"l":"org.web3j.codegen.unit.gen.java"},{"l":"org.web3j.codegen.unit.gen.kotlin"},{"l":"org.web3j.codegen.unit.gen.utils"}]

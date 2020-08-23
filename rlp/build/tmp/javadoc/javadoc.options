@@ -1,0 +1,11 @@
+-classpath '/Users/sbacha/github/web3j-rlp/rlp/build/classes/java/main:/Users/sbacha/github/web3j-rlp/rlp/build/resources/main:/Users/sbacha/github/web3j-rlp/utils/build/libs/utils-4.7.0-SNAPSHOT.jar:/Users/sbacha/.gradle/caches/modules-2/files-2.1/org.bouncycastle/bcprov-jdk15on/1.65/320b989112f00a63a3bcfa5a98f31a4f865a20fa/bcprov-jdk15on-1.65.jar'
+-d '/Users/sbacha/github/web3j-rlp/rlp/build/docs/javadoc'
+-doctitle 'rlp 4.7.0-SNAPSHOT API'
+-encoding 'UTF-8'
+-quiet 
+-windowtitle 'rlp 4.7.0-SNAPSHOT API'
+'/Users/sbacha/github/web3j-rlp/rlp/src/main/java/org/web3j/rlp/RlpString.java'
+'/Users/sbacha/github/web3j-rlp/rlp/src/main/java/org/web3j/rlp/RlpEncoder.java'
+'/Users/sbacha/github/web3j-rlp/rlp/src/main/java/org/web3j/rlp/RlpList.java'
+'/Users/sbacha/github/web3j-rlp/rlp/src/main/java/org/web3j/rlp/RlpDecoder.java'
+'/Users/sbacha/github/web3j-rlp/rlp/src/main/java/org/web3j/rlp/RlpType.java'
